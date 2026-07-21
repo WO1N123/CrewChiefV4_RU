@@ -1,0 +1,20 @@
+# Windows
+Thumbs.db
+desktop.ini
+
+# Temporary files
+*.tmp
+*.bak
+*.log
+
+# Backups
+*_backup_*/
+
+# Archives should be uploaded through GitHub Releases
+*.zip
+*.7z
+*.rar
+
+# IDE
+.idea/
+.vscode/
