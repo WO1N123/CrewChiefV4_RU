@@ -1,0 +1,22 @@
+To add this voice pack to CrewChief 4.18.4.0 or similar:
+
+1. From the CrewChief menu bar, select `File -> Open voice files folder`
+
+2. This will open a File Explorer window to a location such as:
+`C:\Users\YOUR_NAME\AppData\Local\CrewChiefV4\Sounds`
+
+3. In this folder, you will see a folder called `alt`
+
+4. Copy the main `SileroEugene` folder from the voice pack into the `alt` folder
+
+5. Confirm that you now have a folder called `...\CrewChiefV4\Sounds\alt\SileroEugene`
+
+6. Make sure to manually move the entire radio check folder at `...\alt\SileroEugene\radio_check_SileroEugene` to `...\CrewChiefV4\Sounds\voice\radio_check_SileroEugene`
+
+7. Restart CrewChief and you will see `SileroEugene` in the dropdown list on the far right
+
+8. CrewChief will prompt you to restart again, and you should hear SileroEugene answer the radio check alongside your spotter.
+
+9. All done! Give Jim a well-deserved rest and enjoy frustrating a new engineer with your driving.
+
+To remove, 1) swap back to Jim in the CrewChief UI.  2) delete the `SileroEugene` folder from `...\CrewChiefV4\Sounds\alt`. 3) delete the `radio_check_SileroEugene` folder from `...\CrewChiefV4\Sounds\voice`.

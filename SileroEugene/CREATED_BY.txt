@@ -1,0 +1,34 @@
+This voice pack was created using crew-chief-autovoicepack
+(https://github.com/cktlco/crew-chief-autovoicepack)
+
+...for use with the venerable virtual race engineer application CrewChief
+(https://thecrewchief.org/)
+(https://gitlab.com/mr_belowski/CrewChiefV4)
+
+
+Configuration:
+
+voice_name: SileroEugene
+voice_name_tts: Евгений
+your_name: Чемпион
+variation_count: 0
+cpu_only: False
+output_audio_dir: /app/output
+original_inventory_order: False
+phrase_inventory: /app/translated/phrase_inventory_ru.csv
+baseline_audio_dir: /app/baseline
+overwrite: False
+disable_audio_effects: False
+disable_text_replacements: False
+disable_deepspeed: False
+voicepack_version: 20260717
+skip_inventory: False
+skip_radio_check: False
+keep_invalid_files: False
+max_invalid_attempts: 10
+radio_check_tts_text: None
+simple_validity_check: True
+xtts_speed: 1.6
+xtts_integrity_threshold: 0.9
+progress_check_interval: 30.0
+voicepack_base_dir: /app/output/SileroEugene
